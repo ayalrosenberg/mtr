@@ -1,0 +1,6 @@
+go to path
+run
+python run.py -i <filename>
+
+e.g.
+python run.py -i 'mtr_nov.csv'
